@@ -39,7 +39,7 @@ I’m a  **Student at SRM KTR** 💻
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Contact Me
 
-- Email: [jeevanbaabu03@gmail.com](mailto:ananyabalwantsingh@gmail.com)
+- Email: [ananyabalwantsingh@gmail.com](mailto:ananyabalwantsingh@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/ananya-singh1407/)
 
 ---
